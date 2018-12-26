@@ -1,1 +1,2 @@
 fichier 2
+ajouter une ligne dans le fichier 2
